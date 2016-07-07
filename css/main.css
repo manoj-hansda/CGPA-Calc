@@ -1,0 +1,42 @@
+.calc {
+    font-weight: bold;
+    letter-spacing: 0.3px;
+}
+.caret {
+    transform: scale(2);
+}
+select
+{
+	padding: 7px 3px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	border: solid black 1px;
+	border-radius: 2px;
+}
+
+.btn-block label {
+    width: 14.30%;
+    padding: 6px 12px 6px 0;
+}
+input[type=radio] {
+	visibility: hidden;
+}
+.table > tbody > tr > td.sub_code {
+    vertical-align: middle;
+    text-align:center;
+}
+.result {
+    display: inline-flex;
+    font-family: monospace;
+}
+.alert {
+    padding: 0;
+    margin-bottom: 0;
+}
+.navbar {
+    padding-bottom: 5px;
+}
+.data.open .caret{
+    border-top: none;
+    border-bottom: 4px solid #000000;
+}
