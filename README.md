@@ -1,4 +1,4 @@
-# CGPA-Calc
+# CGPA-Calc-IETE
 
 https://manoj-hansda.github.io/cgpa-calc-iete
 
